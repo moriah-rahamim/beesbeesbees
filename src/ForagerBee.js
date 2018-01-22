@@ -18,4 +18,4 @@ ForagerBee.prototype.constructor = ForagerBee;
 
 ForagerBee.prototype.forage = function forage(treasure) {
   this.treasureChest.push(treasure);
-}
+};

@@ -21,4 +21,4 @@ HoneyMakerBee.prototype.makeHoney = function makeHoney() {
 
 HoneyMakerBee.prototype.giveHoney = function giveHoney() {
   this.honeyPot--;
-}
+};
